@@ -36,7 +36,7 @@ dependencies {
 
 ## Thanks
 
- * Inspired by [PasswordInput](https://github.com/shts/StoriesProgressView) in [shts](https://github.com/shts)
+ * Inspired by [StoriesProgressView](https://github.com/shts/StoriesProgressView) in [shts](https://github.com/shts)
  
  
 ## Author
