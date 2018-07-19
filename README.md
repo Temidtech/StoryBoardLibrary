@@ -1,6 +1,6 @@
 
 # Storyboard Library 
-JournalApp allows users to pen down their thoughts and feelings.
+A simple library to display images in story form. Just like whatsapp status story.
 ## Quick Set Up
 * Clone the Repository from Github
 * Open the project folder using Android Studio IDE
