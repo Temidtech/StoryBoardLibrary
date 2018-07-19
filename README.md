@@ -29,8 +29,8 @@ allprojects {
 Add this dependency:
 
 dependencies {
-	       
-}
+	        implementation 'com.github.Temidtech:StoryBoardLibrary:1.0'
+	}
 ```
 
 
