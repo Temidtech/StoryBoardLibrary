@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <font android:fontStyle="normal" android:fontWeight="400" android:font="@font/gotham_book"
+        app:fontStyle="normal" app:fontWeight="400" app:font="@font/gotham_book"/>
+    <font android:fontStyle="italic" android:fontWeight="400" android:font="@font/gotham_bookitalic"
+        app:fontStyle="italic" app:fontWeight="400" app:font="@font/gotham_bookitalic" />
+</font-family>

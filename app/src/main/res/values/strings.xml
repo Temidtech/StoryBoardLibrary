@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StoryBoardLibrary</string>
+    <string name="story_title">Kotlin is a statically typed programming language that runs on the Java virtual machine and also can be compiled to JavaScript source code or use the LLVM compiler infrastructure</string>
+</resources>
